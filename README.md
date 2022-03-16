@@ -1,4 +1,4 @@
-# PflaMoeHus-Backend
+# <img src="https://user-images.githubusercontent.com/80961403/158595393-34986edb-3b64-4c68-b7cb-78d0f10719ff.png" width="30"> PflaMoeHus-Backend
 ## Backend des Softwaretechnik Projekts im 5. Semester Medieninformatik an der HSMR
 
 Im Rahmen des Softwaretechnik Moduls im Wintersemester 2020/21 haben wir mit einem 8 köpfigen Team einen Möbel und Pflanzen Shop entwickelt.
