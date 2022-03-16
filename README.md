@@ -29,4 +29,4 @@ Folgende Funktionen haben wir bis Projektende umgesetzt:
 [PflaMoeHus-Frontend](https://github.com/marie-scharhag/PflaMoeHus-Frontend)
 
 ## Demo Video
-[Demo Video](https://youtu.be/ymXHFMnSj0Q)
+[Demo Video](https://youtu.be/ymXHFMnSj0Q) auf YouTube
